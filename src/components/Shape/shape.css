@@ -1,0 +1,14 @@
+.shape {
+  width: 100px;
+  height: 100px;
+  background-color: #000000;
+  border-radius: 25px;
+}
+
+.shape:hover {
+  cursor: pointer;
+}
+
+.shapeHightlighted {
+  border: 2px solid brown;
+}
